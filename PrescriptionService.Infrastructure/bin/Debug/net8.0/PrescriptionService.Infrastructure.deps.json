@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PrescriptionService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OrderService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PrescriptionService.Infrastructure.dll": {}
+        }
+      },
+      "OrderService.Domain/1.0.0": {
+        "runtime": {
+          "OrderService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrescriptionService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

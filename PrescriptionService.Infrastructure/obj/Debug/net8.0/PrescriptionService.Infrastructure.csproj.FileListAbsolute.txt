@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\bin\Debug\net8.0\PrescriptionService.Infrastructure.deps.json
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\bin\Debug\net8.0\PrescriptionService.Infrastructure.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\bin\Debug\net8.0\PrescriptionService.Infrastructure.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.AssemblyInfo.cs
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\Prescrip.7329FB81.Up2Date
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\refint\PrescriptionService.Infrastructure.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\PrescriptionService.Infrastructure.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Infrastructure\obj\Debug\net8.0\ref\PrescriptionService.Infrastructure.dll

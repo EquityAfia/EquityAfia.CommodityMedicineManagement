@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrescriptionService.Domain\PrescriptionService.Domain.csproj" />
+    <ProjectReference Include="..\PrescriptionService.Infrastructure\PrescriptionService.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

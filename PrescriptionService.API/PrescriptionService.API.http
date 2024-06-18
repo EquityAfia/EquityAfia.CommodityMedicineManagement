@@ -1,0 +1,6 @@
+@PrescriptionService.API_HostAddress = http://localhost:5196
+
+GET {{PrescriptionService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

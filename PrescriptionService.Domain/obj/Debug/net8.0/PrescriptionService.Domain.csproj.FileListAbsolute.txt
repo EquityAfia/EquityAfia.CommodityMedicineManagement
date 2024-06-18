@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\bin\Debug\net8.0\PrescriptionService.Domain.deps.json
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\bin\Debug\net8.0\PrescriptionService.Domain.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\bin\Debug\net8.0\PrescriptionService.Domain.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\PrescriptionService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\PrescriptionService.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\PrescriptionService.Domain.AssemblyInfo.cs
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\PrescriptionService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\PrescriptionService.Domain.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\refint\PrescriptionService.Domain.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\PrescriptionService.Domain.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Domain\obj\Debug\net8.0\ref\PrescriptionService.Domain.dll
