@@ -569,6 +569,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
+          "Microsoft.Extensions.DependencyInjection": "8.0.0",
           "ProductService.Domain": "1.0.0"
         },
         "runtime": {

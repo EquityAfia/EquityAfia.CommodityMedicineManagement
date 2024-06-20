@@ -7,16 +7,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Filters\**" />
+    <Compile Remove="Middlewares\**" />
+    <Content Remove="Filters\**" />
+    <Content Remove="Middlewares\**" />
+    <EmbeddedResource Remove="Filters\**" />
+    <EmbeddedResource Remove="Middlewares\**" />
+    <None Remove="Filters\**" />
+    <None Remove="Middlewares\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ProductService.Application\ProductService.Application.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Filters\" />
-    <Folder Include="Middlewares\" />
   </ItemGroup>
 
 </Project>

@@ -256,5 +256,57 @@ namespace ProductService.Application.Services
         }
     }
 }
+/*namespace Application.Services
+{
+    public class ProductService : IProductService
+    {
+        private readonly IProductRepository _productRepository;
+        private readonly IMapper _mapper; // Assuming an object mapper like AutoMapper is used
+
+        public ProductService(IProductRepository productRepository, IMapper mapper)
+        {
+            _productRepository = productRepository;
+            _mapper = mapper;
+        }
+
+        public ProductDto GetProductDetails(Guid productId)
+        {
+            var product = _productRepository.GetById(productId);
+            if (product == null)
+            {
+                throw new KeyNotFoundException("Product not found.");
+            }
+            return _mapper.Map<ProductDto>(product);
+        }
+
+        public IEnumerable<ProductDto> ListAllProducts()
+        {
+            var products = _productRepository.GetAll();
+            return _mapper.Map<IEnumerable<ProductDto>>(products);
+        }
+
+        public void CreateProduct(ProductDto productDto)
+        {
+            var product = _mapper.Map<Product>(productDto);
+            _productRepository.Add(product);
+        }
+
+        public void UpdateProduct(ProductDto productDto)
+        {
+            var product = _mapper.Map<Product>(productDto);
+            _productRepository.Update(product);
+        }
+
+        public void RemoveProduct(Guid productId)
+        {
+            var product = _productRepository.GetById(productId);
+            if (product == null)
+            {
+                throw new KeyNotFoundException("Product not found.");
+            }
+            _productRepository.Delete(productId);
+        }
+    }
+}*/
 
 

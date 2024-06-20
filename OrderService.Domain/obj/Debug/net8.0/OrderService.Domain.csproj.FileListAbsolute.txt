@@ -5,6 +5,7 @@ C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.sourcelink.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb

@@ -10,6 +10,7 @@ C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\De
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\ProductService.Application.AssemblyInfoInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\ProductService.Application.AssemblyInfo.cs
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\ProductService.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\ProductService.Application.sourcelink.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\ProductS.46A6959E.Up2Date
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\ProductService.Application.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Application\obj\Debug\net8.0\refint\ProductService.Application.dll
