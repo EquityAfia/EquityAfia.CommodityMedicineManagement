@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrescriptionService.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0266cd66a484a14e5d7ed3703e2b5a6231b70e9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e78921108480c8191013afc9ad8b2a352b9704dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrescriptionService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrescriptionService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

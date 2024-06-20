@@ -8,6 +8,7 @@ C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\D
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfo.cs
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.sourcelink.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\OrderSer.30472D0A.Up2Date
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\OrderService.Infrastructure\obj\Debug\net8.0\refint\OrderService.Infrastructure.dll

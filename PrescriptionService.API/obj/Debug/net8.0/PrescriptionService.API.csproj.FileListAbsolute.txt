@@ -24,6 +24,7 @@ C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\PrescriptionService.API.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\PrescriptionService.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\PrescriptionService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\PrescriptionService.API.sourcelink.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.API\obj\Debug\net8.0\staticwebassets\msbuild.PrescriptionService.API.Microsoft.AspNetCore.StaticWebAssets.props

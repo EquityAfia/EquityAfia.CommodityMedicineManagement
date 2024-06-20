@@ -12,6 +12,7 @@ C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\o
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\PrescriptionService.Application.AssemblyInfoInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\PrescriptionService.Application.AssemblyInfo.cs
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\PrescriptionService.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\PrescriptionService.Application.sourcelink.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\Prescrip.29D19C60.Up2Date
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\PrescriptionService.Application.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\PrescriptionService.Application\obj\Debug\net8.0\refint\PrescriptionService.Application.dll
