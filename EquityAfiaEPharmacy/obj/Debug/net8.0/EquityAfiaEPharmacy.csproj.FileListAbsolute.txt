@@ -113,9 +113,11 @@ C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\ProductService.Contracts.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\ProductService.Domain.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\ProductService.Infrastructure.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\ProductService.Infrastructure.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\ProductService.Contracts.pdb
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\bin\Debug\net8.0\ProductService.Domain.pdb
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\obj\Debug\net8.0\EquityAfiaEPharmacy.csproj.AssemblyReference.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\EquityAfiaEPharmacy\obj\Debug\net8.0\EquityAfiaEPharmacy.GeneratedMSBuildEditorConfig.editorconfig

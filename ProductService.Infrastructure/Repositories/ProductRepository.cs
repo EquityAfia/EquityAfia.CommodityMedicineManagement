@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 using Microsoft.EntityFrameworkCore;
 using ProductService.Domain.Entities;
+using ProductService.Domain.Interfaces;
+
 using ProductService.Infrastructure.Data;
 using System.Collections.Generic;
 using System.Threading.Tasks;

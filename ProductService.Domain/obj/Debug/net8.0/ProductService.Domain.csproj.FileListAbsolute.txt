@@ -1,11 +1,15 @@
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.deps.json
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\bin\Debug\net8.0\ProductService.Contracts.dll
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\bin\Debug\net8.0\ProductService.Contracts.pdb
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.AssemblyReference.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfoInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfo.cs
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.sourcelink.json
+C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductS.EEC24C0B.Up2Date
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\refint\ProductService.Domain.dll
 C:\Users\pc\Desktop\Equity\EquityAfiaEPharmacy\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.pdb
