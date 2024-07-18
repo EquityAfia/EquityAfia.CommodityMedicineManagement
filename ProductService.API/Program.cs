@@ -1,33 +1,30 @@
-using static System.Net.Mime.MediaTypeNames;
 
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using ProductService.Application;
+//using ProductService.Application.Services;
 using ProductService.Infrastructure;
-using ProductService.Infrastructure.Data;
 using ProductService.Infrastructure.Repositories;
-//using AutoMapper;
-//using MediatR;
-
-
-
+using ProductService.Infrastructure.Data;
+using ProductService.Domain.Interfaces;
+using ProductService.Application.Interfaces.Commands;
+using ProductService.Application.Interfaces.Queries;
+using YourSolution.Application.Services.Queries;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddDbContext<ProductDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DBCS")));
+
 
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IProductCommandService, ProductCommandService>();
+builder.Services.AddScoped<IProductQueryService, ProductQueryService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddDbContext<ProductDbContext>(e =>e.UseSqlServer(builder.Configuration.GetConnectionString("DBCS")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

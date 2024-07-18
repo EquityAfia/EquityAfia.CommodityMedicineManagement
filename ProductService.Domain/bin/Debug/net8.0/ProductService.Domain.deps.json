@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ProductService.Domain/1.0.0": {
+        "dependencies": {
+          "ProductService.Contracts": "1.0.0"
+        },
         "runtime": {
           "ProductService.Domain.dll": {}
+        }
+      },
+      "ProductService.Contracts/1.0.0": {
+        "runtime": {
+          "ProductService.Contracts.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ProductService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductService.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

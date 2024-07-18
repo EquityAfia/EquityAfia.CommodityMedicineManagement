@@ -1078,8 +1078,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "ProductService.Domain": "1.0.0",
-          "ProductService.Infrastructure": "1.0.0"
+          "ProductService.Contracts": "1.0.0",
+          "ProductService.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProductService.Application.dll": {}
@@ -1088,9 +1088,22 @@
           "bin/placeholder/ProductService.Application.dll": {}
         }
       },
+      "ProductService.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProductService.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductService.Contracts.dll": {}
+        }
+      },
       "ProductService.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ProductService.Contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ProductService.Domain.dll": {}
         },
@@ -1105,6 +1118,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "Microsoft.Extensions.DependencyInjection": "8.0.0",
+          "ProductService.Contracts": "1.0.0",
           "ProductService.Domain": "1.0.0"
         },
         "compile": {
@@ -3202,6 +3216,11 @@
       "path": "../ProductService.Application/ProductService.Application.csproj",
       "msbuildProject": "../ProductService.Application/ProductService.Application.csproj"
     },
+    "ProductService.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../ProductService.Contracts/ProductService.Contracts.csproj",
+      "msbuildProject": "../ProductService.Contracts/ProductService.Contracts.csproj"
+    },
     "ProductService.Domain/1.0.0": {
       "type": "project",
       "path": "../ProductService.Domain/ProductService.Domain.csproj",
@@ -3216,6 +3235,9 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "ProductService.Application >= 1.0.0",
+      "ProductService.Contracts >= 1.0.0",
+      "ProductService.Domain >= 1.0.0",
+      "ProductService.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -3248,6 +3270,15 @@
           "projectReferences": {
             "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Application\\ProductService.Application.csproj": {
               "projectPath": "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Application\\ProductService.Application.csproj"
+            },
+            "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Contracts\\ProductService.Contracts.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Contracts\\ProductService.Contracts.csproj"
+            },
+            "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Domain\\ProductService.Domain.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Domain\\ProductService.Domain.csproj"
+            },
+            "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\Equity\\EquityAfiaEPharmacy\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj"
             }
           }
         }

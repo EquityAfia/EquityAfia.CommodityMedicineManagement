@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +16,4 @@ namespace ProductService.Domain.Services
             decimal taxRate = 0.2m; // 20% tax rate
             return product.Price.Amount * (1 + taxRate);
         }*/
-    }
-}
-
+    

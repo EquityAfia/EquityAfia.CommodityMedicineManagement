@@ -10,12 +10,10 @@ namespace ProductService.Domain.Interfaces
 {
     public interface IProductRepository
     {
-        void Add(Product product);
-        void Update(Product product);
-        void Delete(Product product);
-        Product GetById(int id);
-        IEnumerable<Product> GetAll();
-        void SaveChanges();
+        Task<Product> GetByIdAsync(int id);
+        Task<IEnumerable<Product>> GetAllAsync();
+        Task AddAsync(Product product);
+        Task UpdateAsync(Product product);
+        Task DeleteAsync(int id);
     }
 }
-
